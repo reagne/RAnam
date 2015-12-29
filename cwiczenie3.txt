@@ -1,0 +1,1 @@
+„Git – rozproszony system kontroli wersji. Stworzy³ go Linus Torvalds jako narzêdzie wspomagaj¹ce rozwój j¹dra Linux. Git stanowi wolne oprogramowanie i zosta³ opublikowany na licencji GNU GPL w wersji 2.”
